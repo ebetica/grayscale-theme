@@ -384,3 +384,10 @@ table {
     font-size: 26px;
 }
 
+.schedule table {
+    table-layout: fixed ;
+    width: 100% ;
+}
+.schedule td {
+    width: 50% ;
+}
